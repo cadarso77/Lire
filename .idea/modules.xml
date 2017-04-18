@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar.iml" filepath="$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar_main.iml" group="Lire-SimpleApplication-1.0b4.tar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lire-SimpleApplication-1.0b4.tar_test.iml" group="Lire-SimpleApplication-1.0b4.tar" />
+    </modules>
+  </component>
+</project>
